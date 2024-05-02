@@ -1,3 +1,9 @@
-# [GuyotTime](https://guyotjs.github.io/tm)
+# # [GuyotTime](https://guyotjs.github.io/tm)
 
-> A really simple Time app just for Weston
+> *A simple time app* 
+
+Includes
+1. English / West Arabic Numerals
+2. East Arabic Numerals
+
+**Cookies are included to save data*
